@@ -1,1 +1,2 @@
 # script-blox-fruit
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptpastebin/raw/main/Xeter"))()
